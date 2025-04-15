@@ -64,7 +64,7 @@ The project was trained and tested on a dataset of over 1000 labeled skin lesion
 
 - Namratha Nagathihalli Anantha
 - Manan Karun
-- Ramitha R
+- Ramitha Rajendran
 
 
 
