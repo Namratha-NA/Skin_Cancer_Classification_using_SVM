@@ -52,8 +52,16 @@ The project was trained and tested on a dataset of over 1000 labeled skin lesion
 3. Run the main application script (`main.m` or GUI file).
 4. Upload a skin lesion image and view the classification results.
 
+## Future Enhancements:
 
-Created by:
+- Integration with mobile apps or web platforms for real-time accessibility
+- Expansion to classify more skin conditions beyond the five major types
+- Incorporation of deep learning models (e.g., CNNs) for improved accuracy and adaptability
+- Real-time camera input and instant feedback
+- Inclusion of a larger and more diverse dataset for better generalization
+
+## Contributors
+
 - Namratha N A
 - Manan Karun
 - Ramitha R
