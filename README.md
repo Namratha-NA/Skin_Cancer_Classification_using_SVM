@@ -62,7 +62,7 @@ The project was trained and tested on a dataset of over 1000 labeled skin lesion
 
 ## Contributors
 
-- Namratha N A
+- Namratha Nagathihalli Anantha
 - Manan Karun
 - Ramitha R
 
